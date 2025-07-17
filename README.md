@@ -160,12 +160,6 @@ Organizations struggle with extracting actionable insights from large volumes of
 - Enhanced compliance through automated tracking
 - Scalable solution supporting 10x growth
 
-## 🔗 Related Projects
-
-- **CloudCheck**: Rust-based cloud security scanner with AI-powered remediation
-- **HFT Trading Engine**: Ultra-low latency trading system architecture
-- **Performance Optimization Framework**: Cross-platform performance monitoring
-
 ## 📞 Contact
 
 For detailed discussions about this architecture or collaboration opportunities:
