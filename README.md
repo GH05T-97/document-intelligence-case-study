@@ -165,6 +165,5 @@ Organizations struggle with extracting actionable insights from large volumes of
 For detailed discussions about this architecture or collaboration opportunities:
 
 **Zubair Maqsood**  
-Technical Architect  
 📧 zubairmaqsood866@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/zubairmaqsood) | [GitHub](https://github.com/GH05T-97)
