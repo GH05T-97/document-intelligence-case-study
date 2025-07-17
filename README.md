@@ -1,6 +1,3 @@
-# Technical Architecture Portfolio
-*Zubair Maqsood - Technical Architect*
-
 ## Overview
 This repository showcases my architectural design capabilities through detailed system diagrams, technical decisions, and strategic recommendations. Each case study demonstrates end-to-end consulting approach from business requirements analysis to scalable cloud solution architecture.
 
@@ -17,7 +14,7 @@ Organizations struggle with extracting actionable insights from large volumes of
 ## 🔧 Recommended Technical Solution
 
 ### System Architecture Overview
-![System Architecture](architecture.png)
+![System Architecture](./architecture.png)
 
 **Key Components:**
 - **Document Upload Layer**: S3-based storage with multi-format support
@@ -27,7 +24,7 @@ Organizations struggle with extracting actionable insights from large volumes of
 - **User Experience**: React-based interface with WebSocket real-time updates
 
 ### Technical Architecture Recommendations
-![Technical Choices](choices.png)
+![Technical Choices](./choices.png)
 
 #### 1. **Document Processing Pipeline**
 
@@ -70,7 +67,7 @@ Organizations struggle with extracting actionable insights from large volumes of
 ### 📊 Performance & Scalability Recommendations
 
 #### Optimization Strategies
-![Disaster Recovery](disaster_recovery.png)
+![Disaster Recovery](./disaster_recovery.png)
 
 **Lambda Optimization:**
 - Multi-AZ deployment for reduced latency
@@ -103,7 +100,7 @@ Organizations struggle with extracting actionable insights from large volumes of
 
 ### 📈 Monitoring & Observability Strategy
 
-![Monitoring](monitoring.png)
+![Monitoring](./monitoring.png)
 
 **Key Metrics to Track:**
 - **Latency**: API response times and processing duration
@@ -129,7 +126,7 @@ Organizations struggle with extracting actionable insights from large volumes of
 - Blue/green deployment for zero-downtime releases
 
 ## 🔍 Technical Challenges & Recommended Solutions
-![Challenges](challenges.png)
+![Challenges](./challenges.png)
 
 ### Challenge 1: Hallucination Prevention
 **Problem**: AI models generating inaccurate responses from document content
